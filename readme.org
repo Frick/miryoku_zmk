@@ -1,9 +1,13 @@
 # Copyright 2022 Manna Harbour
 # https://github.com/manna-harbour/miryoku
 
+/This is my customized Miryoku layout with the only adjustment being Inverted-T and ignoring the "mouse" keys in Keyboard Layout Editor since they don't work with ZMK/BT anyway./
+
 * Miryoku ZMK [[https://raw.githubusercontent.com/manna-harbour/miryoku/master/data/logos/miryoku-roa-32.png]]
 
-[[https://raw.githubusercontent.com/manna-harbour/miryoku/master/data/cover/miryoku-kle-cover-miryoku_zmk.png]]
+[[https://raw.githubusercontent.com/Frick/miryoku_zmk/main/kle/swept-crkbd-zmk.png]]
+
+[[http://www.keyboard-layout-editor.com/#/gists/aa2a951b46e4740c2165b5f2ae5af93d][Keyboard Layout Editor]]
 
 [[https://github.com/manna-harbour/miryoku/][Miryoku]] is an ergonomic, minimal, orthogonal, and universal keyboard layout.  [[https://github.com/manna-harbour/miryoku_zmk][Miryoku ZMK]] is the Miryoku implementation for [[https://zmkfirmware.dev/][ZMK]].
 
