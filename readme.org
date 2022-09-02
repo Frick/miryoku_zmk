@@ -5,7 +5,7 @@
 
 * Miryoku ZMK [[https://raw.githubusercontent.com/manna-harbour/miryoku/master/data/logos/miryoku-roa-32.png]]
 
-[[https://raw.githubusercontent.com/Frick/miryoku_zmk/main/kle/swept-crkbd-zmk.png]]
+[[https://raw.githubusercontent.com/Frick/miryoku_zmk/master/kle/swept-crkbd-zmk.png]]
 
 [[http://www.keyboard-layout-editor.com/#/gists/aa2a951b46e4740c2165b5f2ae5af93d][Keyboard Layout Editor]]
 
