@@ -1,7 +1,7 @@
 [
   {
     "backcolor": "#efefef",
-    "name": "swept-crkbd running Miryoku ZMK w/ Inverted-T Nav",
+    "name": "swept-crkbd running Miryoku ZMK w/ QWERTY Layout",
     "author": "https://github.com/Frick",
     "plate": false,
     "pcb": true
@@ -20,15 +20,15 @@
     "E\nF8\n*\n8",
     {
       "x": 6.75,
-      "t": "#000000\n#ed1fff\n\n#1f77ff",
+      "t": "#000000\n\n\n#1f77ff",
       "fa": [
         5,
+        0,
         4,
-        4,
-        5
+        2
       ]
     },
-    "I\n<i class='kb kb-Multimedia-Volume-Up-2'></i>\n\n<i class='fa fa-caret-up'></i>"
+    "I\n\n\nCopy"
   ],
   [
     {
@@ -60,11 +60,11 @@
         2
       ]
     },
-    "U\n\n\nHome",
+    "U\n\n\nPaste",
     {
       "x": 1
     },
-    "O\n\n\nEnd"
+    "O\n\n\nCut"
   ],
   [
     {
@@ -89,7 +89,7 @@
         2
       ]
     },
-    "Y\n\n\nInsert"
+    "Y\n\n\nRedo"
   ],
   [
     {
@@ -113,7 +113,7 @@
         2
       ]
     },
-    "P\n\n\nPgUp\nBoot"
+    "P\n\n\nUndo\nBoot"
   ],
   [
     {
@@ -173,7 +173,7 @@
     {
       "x": 1
     },
-    "L\n<i class='kb kb-Multimedia-FastForward-End'></i>\n\n<i class='fa fa-caret-right'></i>\nAlt"
+    "L\n<i class='kb kb-Multimedia-Volume-Up-2'></i>\n\n<i class='fa fa-caret-up'></i>\nAlt"
   ],
   [
     {
@@ -214,15 +214,15 @@
     "A\nF11\n:\n;\nSuper",
     {
       "x": 10.75,
-      "t": "#000000\n\n\n#1f77ff",
+      "t": "#000000\n#ed1fff\n\n#1f77ff",
       "fa": [
         5,
-        0,
         4,
-        2
+        4,
+        5
       ]
     },
-    "' \"\n\n\nPgDn\nSuper"
+    "' \"\n<i class='kb kb-Multimedia-FastForward-End'></i>\n\n<i class='fa fa-caret-right'></i>\nSuper"
   ],
   [
     {
@@ -247,7 +247,7 @@
         2
       ]
     },
-    ",  <\n1\n\nCopy\nOpp"
+    ",  <\n1\n\nPgDn\nOpp"
   ],
   [
     {
@@ -277,7 +277,7 @@
         2
       ]
     },
-    "M\n0\n\nPaste\nCur",
+    "M\n0\n\nHome\nCur",
     {
       "x": 1,
       "t": "#000000\n#ed1fff\n\n#1f77ff",
@@ -288,7 +288,7 @@
         2
       ]
     },
-    ".  >\n2\n\nCut"
+    ".  >\n2\n\nPgUp"
   ],
   [
     {
@@ -313,7 +313,7 @@
         2
       ]
     },
-    "N\nO\n\nRedo"
+    "N\nO\n\nInsert"
   ],
   [
     {
@@ -337,7 +337,7 @@
         2
       ]
     },
-    "/  ?\n3\n\nUndo\nButton"
+    "/  ?\n3\n\nEnd\nButton"
   ],
   [
     {

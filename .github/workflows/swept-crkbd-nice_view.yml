@@ -10,5 +10,5 @@ jobs:
     with:
       board: '["nice_nano_v2"]'
       shield: '["corne_left nice_view_adapter nice_view","corne_right nice_view_adapter nice_view"]'
-      custom_config: '["#define MIRYOKU_NAV_INVERTEDT","#define MIRYOKU_ALPHAS_QWERTY"]'
+      custom_config: '["#define MIRYOKU_ALPHAS_QWERTY"]'
       kconfig: '["CONFIG_ZMK_DISPLAY=y\nCONFIG_ZMK_COMBO_MAX_COMBOS_PER_KEY=16\nCONFIG_ZMK_DISPLAY_WORK_QUEUE_DEDICATED=y\nCONFIG_ZMK_WIDGET_WPM_STATUS=n\nCONFIG_ZMK_WIDGET_BATTERY_STATUS_SHOW_PERCENTAGE=y"]'
