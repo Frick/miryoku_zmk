@@ -1,7 +1,7 @@
 # Copyright 2023 Manna Harbour
 # https://github.com/manna-harbour/miryoku
 
-/This is my customized Miryoku layout with the only adjustment being Inverted-T and ignoring the "mouse" keys in Keyboard Layout Editor since they don't work with ZMK/BT anyway. This is running on a [[https://github.com/AYM1607/swept-crkbd/][Swept Corne]] keyboard./
+/This is my customized Miryoku layout with the only adjustment being QWERTY layout and ignoring the "mouse" keys in Keyboard Layout Editor since they don't work with ZMK/BT anyway. This is running on a [[https://github.com/AYM1607/swept-crkbd/][Swept Corne]] keyboard./
 
 [[http://www.keyboard-layout-editor.com/#/gists/aa2a951b46e4740c2165b5f2ae5af93d][Keyboard Layout Editor]]
 
